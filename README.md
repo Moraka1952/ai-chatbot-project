@@ -96,22 +96,6 @@ Visual learning is enhanced through embedded Drive-hosted diagrams:
 
 ---
 
-## 👩‍🏫 Sample Q&A Included
-
-Here are a few example questions answered by the chatbot:
-
-> **Q: What is Machine Learning?**  
-> A: ML is a subset of AI that enables computers to learn from data without being explicitly programmed.
-
-> **Q: What’s the difference between AI, ML, and Deep Learning?**  
-> A: AI is the broader field; ML is a subset of AI; Deep Learning is a subset of ML using neural networks.  
-> [See visual explanation](https://drive.google.com/file/d/1zOQvR3YsmWboGepcSjcRNoQcGbWIlQBd/view?usp=drive_link)
-
-> **Q: What is a Neural Network?**  
-> A: Neural Networks are models inspired by the brain, used in Deep Learning to recognize patterns.  
-> [See diagram](https://drive.google.com/file/d/1aa9qj_Gi6Y_jajO-z2Fs1bWSPIYNKpGp/view?usp=drive_link)
-
----
 
 ## 📥 How to Use
 
@@ -120,15 +104,6 @@ Here are a few example questions answered by the chatbot:
 3. Follow through with suggested responses or ask for further clarification.
 4. Use visual links to supplement your understanding.
 
----
-
-## 🏁 Future Enhancements (Optional)
-
-- Add a feedback mechanism for continuous improvement
-- Expand to other domains (e.g., AI in healthcare, robotics)
-- Integrate with bootcamp LMS (Learning Management System)
-
----
 
 > Made with ❤️ using Landbot + OpenAI's GPT tech.
 
