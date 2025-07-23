@@ -92,7 +92,7 @@ Visual learning is enhanced through embedded Drive-hosted diagrams:
 ## 🚀 Deployment
 
 ✅ **The chatbot is live and accessible at the link below**:  
-👉 [**Launch the AI Chatbot**](<https://landbot.online/v3/H-3057095-7GBX9Q9QT2N2M2HE/index.html>)
+👉 [**Launch the AI Chatbot**](https://landbot.online/v3/H-3057095-7GBX9Q9QT2N2M2HE/index.html)
 
 ---
 
