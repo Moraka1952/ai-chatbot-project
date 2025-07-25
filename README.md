@@ -72,10 +72,10 @@ Each flow supports **follow-up Q&A** and redirects to related topics when releva
 Visual learning is enhanced through embedded Drive-hosted diagrams:
 
 - **AI vs ML vs Deep Learning Visual**  
-  [📊 View Diagram](https://drive.google.com/file/d/1zOQvR3YsmWboGepcSjcRNoQcGbWIlQBd/view?usp=drive_link)
+  [📊 View Diagram](https://drive.google.com/file/d/1T-tCOq49PzpbwWJX-e_HDZJzcR74qA83/view?usp=drive_link)
 
 - **Neural Network Diagram**  
-  [🧠 View Diagram](https://drive.google.com/file/d/1aa9qj_Gi6Y_jajO-z2Fs1bWSPIYNKpGp/view?usp=drive_link)
+  [🧠 View Diagram](https://drive.google.com/file/d/1fQOT3N9vyKm2CWRoeAv2mNCB2XxYlcXM/view?usp=drive_link)
 
 ---
 
